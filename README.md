@@ -6,7 +6,7 @@ switches. The clear plastic shell with the paper label snaps onto the 3D printed
 to be held on by friction alone.
 
 /Gerbers contains the Gerber files to fabricate the PCB adapter. .stp and/or .stl are for 3D printing the caps that will
-fit the Cherry MX cap.
+fit the Cherry MX plunger.
 
 
 Further details can be found here:
